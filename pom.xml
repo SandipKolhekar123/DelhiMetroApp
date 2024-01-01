@@ -47,7 +47,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>   
 		</dependency>
-<!--by default form based authentication based on auto-generated user and password-->
+<!--by default form based authentication based on auto-generated user and password -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>   
