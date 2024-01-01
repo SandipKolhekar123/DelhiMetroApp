@@ -15,7 +15,7 @@
 	<name>blogs-app</name>
 	<description>blogging application using springboot</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8ls;a;sa</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
